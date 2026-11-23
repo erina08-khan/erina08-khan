@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I am Erina T. Khan!
 
-<!--
-**erina08-khan/erina08-khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- BCA (Hons.) Student at K.R. Mangalam University
+- Specialisation: Artificial Intelligence and Data Science
+- Currently learning Python, Git, GitHub and Computer Science fundamentals
+- Interested in Artificial Intelligence, Machine Learning and Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+| Category | Technologies |
+|----------|--------------|
+| Languages | Python (Beginner) |
+| Tools | Git, GitHub, VS Code |
+| Concepts | Programming Fundamentals, Data Handling |
+
+## Featured Projects
+
+- 
+- Academic practicals and beginner-level programming projects
+
+## Currently Working On
+
+- Semester 1 practical assignments
+- Learning Python programming
+- Building my technical skills in AI and Data Science
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/erina-t-khan-494794430
+- Email: erina08khan@gmail.com
